@@ -1,0 +1,137 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    line-height: 1em;
+}
+
+.Card{
+    width: 263px;
+    height: 357px;
+}
+
+.buy{
+    width: 1273px;
+    height: 222px;
+}
+
+body{
+    margin: 0;
+    display: block;
+    line-height: 1.15;
+}
+
+.mainDomain{
+    width: 1273px;
+    height: 1554px;
+    margin: auto;
+    justify-content: center;
+    background: #9FC5F8;
+}
+
+.buttonDomain{
+    font-family: Arial;
+    font-size: 12px;
+    width: 1273px;
+    height: 93px;
+    background: #085394;
+    justify-content: center;
+    margin: auto;
+    color: white;
+}
+
+.header{
+    width: 1273px;
+    height: 338px;
+    background: #6FA8DC;
+    flex-direction: column
+}
+
+.DuYa_Icon{
+    width: 204px;
+    height: 220px;
+    margin-left: 534px;
+    padding-top: 30px;
+    display: block;
+    float: center;
+}
+
+.header h1{
+    margin-left: 451px;
+    padding-top: 25px;
+    font-size: 32px;
+}
+
+.header p{
+    margin-left: 573px;
+    padding-top: 22px;
+    font-size: 18px;
+}
+
+.mainDescription{
+    width: 1273px;
+    height: 358px;
+    display: block;
+}
+
+.underCity{
+    margin-left: 436px;
+    padding-top: 22px;
+}
+
+.mainDescription p{
+    margin-left: 234px;
+    padding-top: 15px;
+    font-size: 24px;
+}
+
+.cardsDescription{
+    width: 1273px;
+    height: 636px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.Cl p{
+    width: 272px;
+    height: 186px;
+    font-size: 20px;
+}
+
+.knowMore{
+    width: 200px;
+    height: 49px;
+    display: block;
+    margin: 0px auto;
+    background: #FFD966;
+}
+
+.buyNow{
+    width: 543px;
+    height: 92px;
+    margin-left: 353px;
+    margin-top: 65px;
+    background: #93C47D;
+}
+
+.support{
+    margin-left: 51px;
+    margin-top: 35px;
+    float: left;
+    display: block;
+}
+
+.supportWords{
+    margin-right: 50px;
+}
+
+.copyRight{
+    margin-right: 90px;
+    margin-top: 40px;
+    float: right;
+    font-size: 16px;
+}
+
+html{
+    line-height: 100%;
+}
